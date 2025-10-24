@@ -1,7 +1,10 @@
-# Profile Summary
+# Profile Summary (Executive + Research)
 
-Strategic Transformation & Controls Leader — delivering governance and assurance across cloud and AI programmes. Research focus on **operationalising AI safety** (model risk, ISO 42001, NIST AI RMF, EU AI Act/DORA).
+Strategic Transformation & Controls Leader focused on governance, assurance, and cloud risk across complex financial‑services programmes.
+I specialise in evidence‑led remediation, platform governance, and operationalising **AI safety** in regulated environments.
 
-- 20+ years in FS risk & governance (QA, 2LOD, transformation)
-- Cloud platform risk & multi-cloud governance (AWS, GCP, Azure)
-- Evidence-led remediation and get-to-green programmes
+**Highlights**
+- Progression across QA, risk and 2LOD, programme assurance, and hybrid/multi‑cloud governance
+- Control maturity uplifts and “get‑to‑green” recoveries with traceable evidence
+- Alignment with DORA, PRA SS1/21, ISO/IEC 42001, ISO 27001, NIST AI RMF, SOC 2, SOX, GDPR
+- Research direction: **Operationalising AI Safety in Financial Services**
