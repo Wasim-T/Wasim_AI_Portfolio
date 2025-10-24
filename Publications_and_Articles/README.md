@@ -1,2 +1,3 @@
-# Research Projects  
-Notes, publications and articles in AI Assurance and Governance.
+# Publications & Articles
+
+Whitepapers, articles, and thought pieces. For external publications, link out.

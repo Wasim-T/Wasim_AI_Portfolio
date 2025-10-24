@@ -1,2 +1,4 @@
-# Research Projects  
-Notes and Projects and Case Studies in AI Assurance and Governance.
+# Projects & Case Studies
+
+Non-confidential summaries of professional projects demonstrating outcomes, controls, and governance impact.
+Use the template for consistency.
